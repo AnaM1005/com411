@@ -1,13 +1,18 @@
-#Ask user for number of cables
-print("How many cables should I remove?")
-cables_to_remove = int(input())
+# Ask user for number of mountains
+print("How many mountains should I display?")
+mountains = int(input())
 
-#Declare a control variable
-cables_removed = 0
+# Display mountains
+print("\nDisplaying...")
 
-#Remove cables
-print()
+for mountain in range(mountains):
+ print("""
+           __
+          /  \\_  
+         /^    \\
+        /  ^    \\_
+      _/ ^ ^     ^\\
+     /  ^     ^    \\
 
-while (cables_removed < cables_to_remove):
-  print("Removed cable.")
-  cables_removed = cables_removed + 1
+
+     """)
