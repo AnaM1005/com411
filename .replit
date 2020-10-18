@@ -1,2 +1,2 @@
 language = "python3"
-run = "python basics/functions/function_with_parameter.py"
+run = "python basics/functions/function_with_loop.py"
