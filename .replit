@@ -1,2 +1,2 @@
 language = "python3"
-run = "python basics/functions/ascii_code.py"
+run = "python basics/functions/simple_function.py"
