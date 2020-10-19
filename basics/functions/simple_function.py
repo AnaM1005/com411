@@ -6,3 +6,9 @@ def listen():
 
 #Call to the function
 listen()
+
+#Defining the function
+def commence ()
+ print ("The Avengers initiative")
+ print ("Please enter the number of days:")
+ days = int(input())
