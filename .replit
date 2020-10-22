@@ -1,2 +1,2 @@
 language = "python3"
-run = "python data/lists/populate_list.py"
+run = "python data/tuples/simple_tuple.py"
