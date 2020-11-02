@@ -1,5 +1,5 @@
 language = "python3"
 
-run = "python data/sets/sorted_set.py"
+run = "python data/dicts/simple_dict.py"
 
 
