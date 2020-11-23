@@ -1,6 +1,6 @@
 language = "python3"
 
-run = "python data/visual/plots/simple.py"
+run = "python data/visual/plots/square.py"
 
 
 
