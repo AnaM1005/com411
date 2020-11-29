@@ -1,6 +1,6 @@
 language = "python3"
 
-run = "python data/visual/plots/path.py"
+run = "python data/visual/subplots/temps.py"
 
 
 
